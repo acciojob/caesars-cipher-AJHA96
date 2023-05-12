@@ -23,7 +23,7 @@ function rot13(encodedStr){
     return decoderArr
 }
 	console.log(lookup["V"]);
-console.log(encode("#MNZD"));
+console.log(encodedStr("#MNZD"));
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
 
 // console.log(rot13("SERR YBIR? NPPVBWBO"));
